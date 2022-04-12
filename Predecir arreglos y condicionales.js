@@ -1,8 +1,7 @@
 /*
 Fragmento de código 1
-//
-
 */
+
 function muestraInformaciónContacto() {
     var auntContactInfo = ["Paula", "Smith", "Calle Principal 1234", "St. Louis", "MO", 12345];
     console.log(auntContactInfo) 
@@ -15,6 +14,7 @@ auntContactInfo      =        ["Paula", "Smith", "Calle Principal 1234", "St. Lo
 ----------------------------------------------------------------------------------------------------
 Fragmento de código 2
 */
+
 function muestraListaDeCompras() {
     var produce = ["manzanas", "naranjas"];
     var frozen = ["brócoli", "helado"];
@@ -29,7 +29,6 @@ frozen           =            ["brócoli", "helado"]
 
 ----------------------------------------------------------------------------------------------------
 Fragmento de código 3
-//
 */
 
 var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
